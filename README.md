@@ -1,7 +1,7 @@
 Benjamin Skovgaard - cph-bs190@cphbusiness.dk
 # Important notes
 - I use JDK 11. Not sure if it could cause problems but I figured I would mention it.
-- I've included a 'Databases' folder with an sql file which will create all of the databases used in the projects (includes all generated tables etc.). 
+- I've included a 'Databases' folder with an sql file which will create all of the databases used in the projects when imported (includes all generated tables etc.). 
 
 # Monday
 Spent most of the day ensuring that all of the new programs were set up correctly. I have added a file in the 'Monday' folder which is just a quick checklist of everything that I have installed and configured.
