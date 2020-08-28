@@ -1,0 +1,7 @@
+Windows 10 pro installed - ✓
+Netbeans 12.0 installed and set up - ✓
+Local Docker set-up completed - ✓
+MySQL Workbench set-up for 3rd sem - ✓
+Tomcat 9 installed - ✓
+Maven installed and set up - ✓
+3rd semester Droplet (+Docker) configured - ✓
